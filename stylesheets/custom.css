@@ -1,0 +1,169 @@
+/**
+ * DEAR ANDREW KIM SCSS stylesheet 
+ * 
+ */
+/**
+ * 1. VARIABLES
+ * 2. TYPOGRAPHY
+ * 3. WRAPPING
+ * 4. COMPONENTS
+ */
+/*------------------------------------*\
+  1. VARIABLES
+\*------------------------------------*/
+/*------------------------------------*\
+  2. TYPOGRAPHY
+\*------------------------------------*/
+/* line 41, /home/andrew/GoogleDrive/websites/octobersailing/source/stylesheets/custom.scss */
+h1, h2, h3, h4, h5, h6 {
+  font-family: Josefin Sans; }
+
+/* line 45, /home/andrew/GoogleDrive/websites/octobersailing/source/stylesheets/custom.scss */
+body {
+  font-family: Open Sans;
+  font-size: 16px;
+  color: #40474E; }
+
+/* line 52, /home/andrew/GoogleDrive/websites/octobersailing/source/stylesheets/custom.scss */
+h1 {
+  font-size: 50px;
+  font-weight: 700;
+  margin-top: 0px; }
+
+/* line 58, /home/andrew/GoogleDrive/websites/octobersailing/source/stylesheets/custom.scss */
+h4 {
+  font-size: 28px;
+  font-weight: 700;
+  margin-top: 0px; }
+
+/* line 64, /home/andrew/GoogleDrive/websites/octobersailing/source/stylesheets/custom.scss */
+h5 {
+  font-size: 1rem;
+  font-weight: 800; }
+
+/* line 69, /home/andrew/GoogleDrive/websites/octobersailing/source/stylesheets/custom.scss */
+h4 a {
+  color: #000; }
+
+/* line 73, /home/andrew/GoogleDrive/websites/octobersailing/source/stylesheets/custom.scss */
+p {
+  line-height: 1.7;
+  margin: 0 0 20px; }
+  /* line 76, /home/andrew/GoogleDrive/websites/octobersailing/source/stylesheets/custom.scss */
+  p a {
+    text-decoration: underline; }
+
+/* line 81, /home/andrew/GoogleDrive/websites/octobersailing/source/stylesheets/custom.scss */
+a {
+  color: #588ea4; }
+
+/* line 85, /home/andrew/GoogleDrive/websites/octobersailing/source/stylesheets/custom.scss */
+a:hover {
+  color: #a4c2ce;
+  text-decoration: none; }
+
+/* line 89, /home/andrew/GoogleDrive/websites/octobersailing/source/stylesheets/custom.scss */
+.description {
+  color: #588ea4;
+  font-size: 14px;
+  font-family: 'Josefin Sans';
+  margin: 0 0 0px; }
+
+/* line 96, /home/andrew/GoogleDrive/websites/octobersailing/source/stylesheets/custom.scss */
+.date {
+  color: #588ea4;
+  font-size: 14px;
+  text-transform: uppercase; }
+
+/*------------------------------------*\
+  3. WRAPPING
+\*------------------------------------*/
+/* line 106, /home/andrew/GoogleDrive/websites/octobersailing/source/stylesheets/custom.scss */
+.container {
+  max-width: 960px;
+  position: relative; }
+
+/*------------------------------------*\
+  4. COMPONENTS
+\*------------------------------------*/
+/* line 118, /home/andrew/GoogleDrive/websites/octobersailing/source/stylesheets/custom.scss */
+body {
+  background-color: #f3f3f0; }
+
+/* line 122, /home/andrew/GoogleDrive/websites/octobersailing/source/stylesheets/custom.scss */
+header {
+  position: relative;
+  height: 50px; }
+
+/* line 127, /home/andrew/GoogleDrive/websites/octobersailing/source/stylesheets/custom.scss */
+#main {
+  margin: 10px; }
+
+/* line 131, /home/andrew/GoogleDrive/websites/octobersailing/source/stylesheets/custom.scss */
+footer {
+  position: relative;
+  height: 50px; }
+
+/* line 136, /home/andrew/GoogleDrive/websites/octobersailing/source/stylesheets/custom.scss */
+.left-nav {
+  padding: 30px 30px 30px 30px;
+  margin-bottom: 30px;
+  background-color: #fff; }
+  /* line 140, /home/andrew/GoogleDrive/websites/octobersailing/source/stylesheets/custom.scss */
+  .left-nav .logo {
+    max-width: 200px; }
+
+/* line 145, /home/andrew/GoogleDrive/websites/octobersailing/source/stylesheets/custom.scss */
+hr {
+  border: 0;
+  border-top: 3px solid #588ea4; }
+
+/* line 150, /home/andrew/GoogleDrive/websites/octobersailing/source/stylesheets/custom.scss */
+img {
+  margin-bottom: 20px; }
+
+/* line 154, /home/andrew/GoogleDrive/websites/octobersailing/source/stylesheets/custom.scss */
+img.desaturate {
+  -webkit-filter: grayscale(100%);
+  filter: grayscale(100%); }
+
+/* line 162, /home/andrew/GoogleDrive/websites/octobersailing/source/stylesheets/custom.scss */
+.invisible {
+  opacity: 0; }
+
+/* line 166, /home/andrew/GoogleDrive/websites/octobersailing/source/stylesheets/custom.scss */
+.visible {
+  opacity: 1; }
+
+/*------------------------------------*\
+  5. NOT USED
+\*------------------------------------*/
+/* line 176, /home/andrew/GoogleDrive/websites/octobersailing/source/stylesheets/custom.scss */
+img.bg {
+  /* Set rules to fill background */
+  min-height: 100%;
+  min-width: 1024px;
+  /* Set up proportionate scaling */
+  width: 100%;
+  height: auto;
+  /* Set up positioning */
+  position: fixed;
+  top: 0;
+  left: 0;
+  /* Opacity */
+  opacity: 0.2; }
+
+@media screen and (max-width: 1024px) {
+  /* Specific to this particular image */
+  /* line 195, /home/andrew/GoogleDrive/websites/octobersailing/source/stylesheets/custom.scss */
+  img.bg {
+    left: 50%;
+    margin-left: -512px;
+    /* 50% */ } }
+/* line 203, /home/andrew/GoogleDrive/websites/octobersailing/source/stylesheets/custom.scss */
+.blog-image {
+  max-height: 450px; }
+
+/* line 207, /home/andrew/GoogleDrive/websites/octobersailing/source/stylesheets/custom.scss */
+.header-image {
+  max-height: 200px; }

@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Blog Name</title>
+  <subtitle>Blog subtitle</subtitle>
+  <id>http://blog.url.com/blog</id>
+  <link href="http://blog.url.com/blog"/>
+  <link href="http://blog.url.com/feed.xml" rel="self"/>
+  <updated>2016-10-01T12:10:00+10:00</updated>
+  <author>
+    <name>Blog Author</name>
+  </author>
+  <entry>
+    <title>Tea meditation</title>
+    <link rel="alternate" href="http://blog.url.com/blog/2016/tea-meditation/"/>
+    <id>http://blog.url.com/blog/2016/tea-meditation/</id>
+    <published>2016-10-01T12:10:00+10:00</published>
+    <updated>2016-10-01T12:17:50+10:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;Last Saturday, I attended a tea meditation retreat at the Nan Tien Temple near Wollongong by myself. It was an incredible experience. I felt I learnt so many lessons that I could apply in my life.&lt;/p&gt;
+
+&lt;p&gt;In this retreat, we learned a little bit about how to earnestly enjoy tea. How? It's simply about being in the present and using all your senses and enjoying the moment without any judgements. From my research, it appears that the tea ceremony that we did is a simplified version of the Gongfu tea ceremony.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Steps&lt;/strong&gt; (That I've been taught)&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Prepare the tea set and have hot water in the flask ready&lt;/li&gt;
+  &lt;li&gt;Put little bit of tea into the cup. Hear the tea tinkle against the ceramic. Examine the colour and the shape. Smell the tea leaves.&lt;/li&gt;
+  &lt;li&gt;Put the tea into the teapot&lt;/li&gt;
+  &lt;li&gt;Pour boiling water into the teapot&lt;/li&gt;
+  &lt;li&gt;Recite a mantra whilst it brews&lt;/li&gt;
+  &lt;li&gt;Once it is ready, pour the tea into the tea pitcher&lt;/li&gt;
+  &lt;li&gt;From the tea pitcher, put it into your tea cup&lt;/li&gt;
+  &lt;li&gt;Smell the tea, feel the warmth, examine the colour. Notice your urge to drink the tea.&lt;/li&gt;
+  &lt;li&gt;Drink and enjoy the tea.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Note to self&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Be present (a lot harder said then done)&lt;/li&gt;
+  &lt;li&gt;Do this every morning - it will change your life&lt;/li&gt;
+  &lt;li&gt;Do all things with intention&lt;/li&gt;
+  &lt;li&gt;Habit helps to master things (for example if I complain at home all the time, I become excellent at complaining)&lt;/li&gt;
+  &lt;li&gt;Have simple yet structured discipline&lt;/li&gt;
+  &lt;li&gt;It's about quality not quantity of tea&lt;/li&gt;
+  &lt;li&gt;Buy good tea leaves and a pretty Chinese teapot to really enjoy the experience&lt;/li&gt;
+  &lt;li&gt;Whilst meditating, have a good posture. Be relaxed but awake and focused&lt;/li&gt;
+  &lt;li&gt;Enjoy the experience. Do not be quick to judge as there is no good or bad nor mistakes.&lt;/li&gt;
+  &lt;li&gt;Notice the transformation of the tea leaves after brewing - an example of a constant change in life&lt;/li&gt;
+  &lt;li&gt;Investigate whether I could do Traditional Korean / Chinese stay in the future&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Positive Thinking</title>
+    <link rel="alternate" href="http://blog.url.com/blog/2016/positive-thinking/"/>
+    <id>http://blog.url.com/blog/2016/positive-thinking/</id>
+    <published>2016-09-26T22:40:00+10:00</published>
+    <updated>2016-09-26T22:51:31+10:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;ul&gt;
+  &lt;li&gt;I will meet my own expectation and not others.&lt;/li&gt;
+  &lt;li&gt;I will control my own spiritual journey.&lt;/li&gt;
+  &lt;li&gt;I will only do activities which are in line with my values.&lt;/li&gt;
+  &lt;li&gt;I will be strong throughout all difficult times.&lt;/li&gt;
+  &lt;li&gt;I will set clear boundaries and ask others to respect them.&lt;/li&gt;
+  &lt;li&gt;I will be clear to myself about what I am willing to compromise.&lt;/li&gt;
+  &lt;li&gt;I will take care of my own happiness.&lt;/li&gt;
+  &lt;li&gt;I will fight for things worth fighting for.&lt;/li&gt;
+  &lt;li&gt;I will be nonjudgemental&lt;/li&gt;
+  &lt;li&gt;I will always be grateful for things others have done for me.&lt;/li&gt;
+  &lt;li&gt;I will be proud to be who I am.&lt;/li&gt;
+  &lt;li&gt;I will remind myself that I am a good person with good intention.&lt;/li&gt;
+  &lt;li&gt;I will be realistic.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Acceptance</title>
+    <link rel="alternate" href="http://blog.url.com/blog/2016/acceptance/"/>
+    <id>http://blog.url.com/blog/2016/acceptance/</id>
+    <published>2016-08-26T07:54:00+10:00</published>
+    <updated>2016-08-26T08:07:30+10:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;I am slowly beginning to realise I have unrealistically high expectations from people.&lt;/p&gt;
+
+&lt;p&gt;I need to accept you for who you are with all your flaws.
+And I need to you to accept me for who I am.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Don't try to steer the boat. 
+Don't open shop for yourself. Listen. Keep silent. 
+You are not God's mouthpiece. Try to be an ear, 
+And if you do speak, ask for explanations.” 
+- Rumi&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Screaming into the void</title>
+    <link rel="alternate" href="http://blog.url.com/blog/2016/screaming-into-the-void/"/>
+    <id>http://blog.url.com/blog/2016/screaming-into-the-void/</id>
+    <published>2016-08-21T20:15:00+10:00</published>
+    <updated>2016-08-21T20:22:09+10:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;Actually, I think I had it all wrong.&lt;/p&gt;
+
+&lt;p&gt;I was writing this blog thinking I was like Kanye and that I would miraculously generate millions of followers because I was so awesome.&lt;/p&gt;
+
+&lt;p&gt;I need to let go of this expectation, dream, ambition, or whatever you call it.&lt;/p&gt;
+
+&lt;p&gt;I looked back at my first entry and it was clear that through this blog, I wanted to connect with people. But because of this pressure, I kept procrastinating on writing more blog entries (shameful 7 months of no entry beginning of this year 2016)&lt;/p&gt;
+
+&lt;p&gt;I think this transcript from Grace and Frankie perfectly sums up my feeling:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Frankie: Oh, God, well, I tried to "join the conversation," Mike, like you and I talked about, but nobody is talking back to me.&lt;/p&gt;
+
+  &lt;p&gt;Mike: You know, Frankie, the Internet's not like a real conversation. It's just a bunch of people screaming into the void. For a real conversation, you need…&lt;/p&gt;
+
+  &lt;p&gt;Frankie: I know, I know, Mike.&lt;/p&gt;
+
+  &lt;p&gt;Mike: You… you need real people.&lt;/p&gt;
+
+  &lt;p&gt;Frankie: Right?&lt;/p&gt;
+
+  &lt;p&gt;Mike: Right.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;So there you go. I need to let go of the expectation that I'll be a phenomenon and will create loyal followers. Just be me, just write about my feelings, because who's going to read it anyway? Of course, I'll still need to be careful on what I write just in case my entries don't backfire at me.&lt;/p&gt;
+
+&lt;p&gt;But I need to write for me. Not so that people will like me or for others to read.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;So note to self: Write without any expectations. Write for myself. For my sanity.&lt;/strong&gt;&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>I can't always be the good guy</title>
+    <link rel="alternate" href="http://blog.url.com/blog/2016/i-cant-always-be-the-good-guy/"/>
+    <id>http://blog.url.com/blog/2016/i-cant-always-be-the-good-guy/</id>
+    <published>2016-08-21T19:11:00+10:00</published>
+    <updated>2016-08-21T19:54:12+10:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;I can't always be the good guy.&lt;/p&gt;
+
+&lt;p&gt;Sometimes, I need to put myself first instead of other people's feeling.
+Sometimes, I need to deal with my own problem not others.&lt;/p&gt;
+
+&lt;p&gt;I have the right to feel my emotions.
+I have the right to take my time.&lt;/p&gt;
+
+&lt;p&gt;I will not compromise on these two things and I won't apologise.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Words and the truth</title>
+    <link rel="alternate" href="http://blog.url.com/blog/2016/words-and-the-truth/"/>
+    <id>http://blog.url.com/blog/2016/words-and-the-truth/</id>
+    <published>2016-08-05T07:59:00+10:00</published>
+    <updated>2016-08-21T19:52:21+10:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;You say you're sorry for everything, but what does this even mean? It's a blanket statement, it doesn't address the root of the problem nor does it help you to change.&lt;/p&gt;
+
+&lt;p&gt;You always seem to forget your intent of your apology. And people only forget things if it had no meaning to them.&lt;/p&gt;
+
+&lt;p&gt;But am I being a hypocrite? Do I say things that I don't mean?&lt;/p&gt;
+
+&lt;p&gt;If my words and my heart don't align, how can I change how I feel? Or, how should I say how I really feel?&lt;/p&gt;
+
+&lt;p&gt;We've been friends for a long time but that doesn't mean that I'm immune by all the hurtful things that you've done. I'm still hurt by you. And I've hurt you too I know.&lt;/p&gt;
+
+&lt;p&gt;I can pretend like there's nothing wrong. But I think that we obth change and when we're both ready, we can be friends again.&lt;/p&gt;
+</content>
+  </entry>
+</feed>
